@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration file="/Users/devlabair2/Documents/VocPlayer/VocPlayer.prj" location="/Users/devlabair2/Documents/VocPlayer" name="VocPlayer" target="target.ezdeploy.standalone" target-name="Application Compiler">
+  <configuration file="/Users/manashsahoo/Documents/GitHub/VocPlayer/VocPlayer.prj" location="/Users/manashsahoo/Documents/GitHub/VocPlayer" name="VocPlayer" target="target.ezdeploy.standalone" target-name="Application Compiler">
     <param.appname>VocPlayer</param.appname>
     <param.icon />
     <param.icons />
@@ -90,10 +90,10 @@ ${DYLD_LIBRARY_PATH}:MR/R2023b/runtime/maca64:MR/R2023b/sys/os/maca64:MR/R2023b/
     <fileset.package />
     <fileset.depfun />
     <build-deliverables>
-      <file location="${PROJECT_ROOT}/VocPlayer/for_testing" name="VocPlayer.app" optional="false">/Users/devlabair2/Documents/VocPlayer/VocPlayer/for_testing/VocPlayer.app</file>
-      <file location="${PROJECT_ROOT}/VocPlayer/for_testing" name="run_VocPlayer.sh" optional="false">/Users/devlabair2/Documents/VocPlayer/VocPlayer/for_testing/run_VocPlayer.sh</file>
-      <file location="${PROJECT_ROOT}/VocPlayer/for_testing" name="splash.png" optional="false">/Users/devlabair2/Documents/VocPlayer/VocPlayer/for_testing/splash.png</file>
-      <file location="${PROJECT_ROOT}/VocPlayer/for_testing" name="readme.txt" optional="true">/Users/devlabair2/Documents/VocPlayer/VocPlayer/for_testing/readme.txt</file>
+      <file location="${PROJECT_ROOT}/VocPlayer/for_testing" name="VocPlayer.app" optional="false">/Users/manashsahoo/Documents/GitHub/VocPlayer/VocPlayer/for_testing/VocPlayer.app</file>
+      <file location="${PROJECT_ROOT}/VocPlayer/for_testing" name="run_VocPlayer.sh" optional="false">/Users/manashsahoo/Documents/GitHub/VocPlayer/VocPlayer/for_testing/run_VocPlayer.sh</file>
+      <file location="${PROJECT_ROOT}/VocPlayer/for_testing" name="splash.png" optional="false">/Users/manashsahoo/Documents/GitHub/VocPlayer/VocPlayer/for_testing/splash.png</file>
+      <file location="${PROJECT_ROOT}/VocPlayer/for_testing" name="readme.txt" optional="true">/Users/manashsahoo/Documents/GitHub/VocPlayer/VocPlayer/for_testing/readme.txt</file>
     </build-deliverables>
     <workflow />
     <matlab>
